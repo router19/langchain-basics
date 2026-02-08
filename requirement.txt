@@ -1,0 +1,8 @@
+langchain
+#APIs for open ai
+langchain-openai
+#for connecting to LLMs locally
+langchain-ollama
+langchain-community
+#lib to build and share data apps
+streamlit
