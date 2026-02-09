@@ -22,11 +22,6 @@ prompt_template = ChatPromptTemplate.from_messages(
 )
 
 
-
-
-
-
-
 chain = prompt_template | llm
 
 history_for_chain = ChatMessageHistory()

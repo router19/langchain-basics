@@ -6,3 +6,6 @@ langchain-ollama
 langchain-community
 #lib to build and share data apps
 streamlit
+numpy
+langchain-chroma
+faiss-cpu
