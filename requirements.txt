@@ -12,3 +12,6 @@ faiss-cpu
 pypdf
 wikipedia
 ddgs
+duckduckgo_search
+langchain-mcp-adapters
+langgraph
