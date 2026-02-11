@@ -14,7 +14,7 @@ llm = ChatOllama(model="llama3.2:3b")
 
 prompt_template = ChatPromptTemplate.from_messages(
     [
-        ("system","You are a Agine Coach.Answer any questions "
+        ("system","You are a Agile Coach.Answer any questions "
          "related to agile process"),
          MessagesPlaceholder(variable_name="chat_history"),
         ("human","{input}")
